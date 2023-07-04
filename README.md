@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STORMPEGASUS
-- 👀 I’m interested in App Development and Competitive Programming
-- 🌱 I’m currently learning App Developemnt and DSA
+- 👀 I’m interested in Software Development and DSA
+- 🌱 I’m currently learning App Development and DSA
 - 📫 How to reach me https://www.linkedin.com/in/utsavkumar24x7/
 
 <!---
